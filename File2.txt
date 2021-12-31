@@ -1,5 +1,10 @@
  Welcome to git.
  
  change add WI6 pull
+<<<<<<< HEAD
  
  change on remote master by team mate to test featch CR3.
+=======
+
+change : for Bug4 on local master to chech Rebase to handal conflict
+>>>>>>> 64a526d (Bug4:File2 updated to local master for Rebase conflict)
