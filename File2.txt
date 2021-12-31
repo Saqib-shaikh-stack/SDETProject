@@ -1,1 +1,3 @@
  Welcome to git.
+ 
+ change add WI6 pull
